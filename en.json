@@ -11,12 +11,12 @@
   "status": "Status",
   "statusPage": "Status Page",
 
-  "isDown": "Experiencing issues",
-  "isDisrupted": "Experiencing disruptions",
-  "isNotice": "Maintenance in progress",
-  "isOk": "All systems operational",
+  "isDown": "It's not you it's us",
+  "isDisrupted": "Something is causing issues",
+  "isNotice": "Ongoing maintenance",
+  "isOk": "Everything is fine",
 
-  "operational": "Operational",
+  "operational": "Functional",
   "underMaintenance": "Maintenance",
   "degradedPerformance": "Degraded performance",
   "partialOutage": "Partial Outage",
